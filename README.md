@@ -39,35 +39,6 @@ Chữ **in đậm** và chữ *in nghiêng*
 <li>Xe hơi</li>
 <li>Xe gắn máy</li>
 </ul>
-Sẽ tương đương với:
-
-- Xe đạp
-- Xe hơi
-- Xe gắn máy
-Để đánh dấu một danh sách có thứ tự bạn sử dụng các số thay vì các dấu như ở trên. Ví dụ như sau:
-
-1. Xe đạp
-2. Xe hơi
-3. Xe gắn máy
-Để đánh dấu hình ảnh dúng ta sử dụng cú pháp như ở dưới đây:
-
-![Học Lập Trình Online](http://hoclaptrinh.org/logo.png)
-Trong đó phần văn bản đặt trong cặp dấu [] được dùng tương đương với giá tị của thuộc tính alt trong thẻ <img> còn địa chỉ liên kết được đặt trong cặp dấu () được dùng tương đương với giá trị của thuộc tính src trong thẻ <img>.
-
-Để đánh dấu một liên kết chúng ta sử dụng cú pháp như sau:
-
-[Học Lập Trình Online](http://hoclaptrinh.org)
-Gần tương tự như khi đánh dấu hình ảnh, với cách đánh dấu sử dụng ngôn ngữ Markdown như trên thì đoạn văn bản bên trong [] sẽ tương đương với giá trị của thuộc tính title trong thẻ <a> và liên kết đặ trong () sẽ tương đương với giá trị thuộc tính href trong thẻ <a>.
-
-Tới đây chúng ta đã kết thúc việc tìm hiểu về cách sử dụng ngôn ngữ Markdown để đánh dấu văn bản.
-
-Tạo Đường Kẻ Gạch Ngang
-
-Bạn gõ --- hoặc *** hoặc ___
-
----
-***
-___
 Tạo Điểm Nhấn (highlight)
 
 ==text==
