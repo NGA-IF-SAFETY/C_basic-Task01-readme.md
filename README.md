@@ -20,7 +20,9 @@ Các lớp tiêu đề h1,h2,h3 cho đến h6 có thể viết được bằng c
 # Tiêu đề 1 (h1)
 ## Tiêu đề 2 (h2)
 ### Tiêu đề 3 (h3)
-b.In đậm,in nghiêng
+b.In đậm,in nghiêng  
+
+Kẹp một từ ở đầu và cuối bằng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
 
 Chữ <strong>in đậm</strong> và chữ <em>in nghiêng</em>
 
@@ -33,7 +35,7 @@ sử dụng ~~
 d.link
 đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)    
 
-vd: <www.facebook.com>    
+vd: [facebook]<www.facebook.com>    
 
 e.hình ảnh  
 !<img>(link)    
