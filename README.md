@@ -3,39 +3,16 @@
 Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gruber. Markdown sử dụng cú pháp khá đơn giản và dễ hiểu để đánh dấu văn bản và văn bản được viết bằng Markdown sẽ có thể được chuyển đổi sang HTML. Ngược lại các văn bản được viết bằng HTML cũng có thể được chuyển đổi sang Markdown
 2.Tác dụng
 
+Sự phổ biến của HTML khiến ngôn ngữ đánh dấu này được sử dụng rộng rãi trong các ứng dụng sử dụng internet từ các trang web tới nội dung email hay rất nhiều các tài liệu hướng dẫn online cũng đều sử dụng ngôn ngữ này. Tuy nhiên một vấn đề gặp phải của HML đó là cú pháp của ngôn ngữ này không được thân thiện lắm với người dùng
 
-Các Cú Pháp Cơ Bản
+3.Các Cú Pháp Cơ Bản
 
-Markdown được thiết kế với ý định rõ ràng để có thể đọc dễ dàng. Bạn có thể thấy rằng hầu hết các cú pháp khác đơn giản và trực quan.
-
-Markdown help
-Tạo Tiêu Đề
+a.Tạo Tiêu Đề
 
 # Tiêu đề 1 (h1)
 ## Tiêu đề 2 (h2)
 ### Tiêu đề 3 (h3)
-
-<h3>Thẻ H3</h3>
-Khi viết bằng ngôn ngữ Markdown sẽ như sau:
-
-### Thẻ H3
-Để đánh dấu văn bản với thẻ in đậm <strong> và in nghiêng <em> trong HTML, khi chuyển sang Markdown chúng ta sử dụng lần lượt cặp dấu và cặp dấu ****. Ví dụ đoạn mã HTML sau:*nghiêng* hoặc _nghiêng_ là nghiêng
-**đậm** hoặc __đậm__ là đậm
-[tên link](đường dẫn) là link
-![tên ảnh](link đến ảnh) giống link nhưng cho ảnh
-# Chương 1, ## Mục 1, ### Mục 1.1
-Tạo list:
-
-List gạch đầu dòng:
-- Lorem ipsum
-- Dolo sit amet
-- Consecteur...
-
-List đánh số:
-1. Lorem ipsum
-2. Dolo sit amet
-3. Consecteur..
-
+b.In đậm,in nghiêng
 
 Chữ <strong>in đậm</strong> và chữ <em>in nghiêng</em>
 Sẽ tương đương với:
