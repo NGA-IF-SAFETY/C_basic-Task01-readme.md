@@ -35,7 +35,7 @@ sử dụng ~~
 d.link
 đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)    
 
-vd: [facebook]<www.facebook.com>    
+vd: [facebook]<https://www.facebook.com>    
 
 e.hình ảnh  
 !<img>(link)    
