@@ -12,7 +12,10 @@ Sự phổ biến của HTML khiến ngôn ngữ đánh dấu này được sử
 
 3.Các Cú Pháp Cơ Bản
 
-a.Tạo Tiêu Đề
+a.Tạo Tiêu Đề  
+Các lớp tiêu đề h1,h2,h3 cho đến h6 có thể viết được bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... Tuy vậy để viết một bài viết dễ đọc thì hiếm khi cần dùng đến quá 3 ký tự này.
+
+
 
 # Tiêu đề 1 (h1)
 ## Tiêu đề 2 (h2)
@@ -22,28 +25,26 @@ b.In đậm,in nghiêng
 Chữ <strong>in đậm</strong> và chữ <em>in nghiêng</em>
 
 Chữ **in đậm** và chữ *in nghiêng*  
-c.xuống dòng  
-cách hai cái   
+c.gạch ngang  
+sử dụng ~~
+~~ gạch ngang~~
 
 d.link
-đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)
-vd: <www.facebook.com>  
+đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)  
+vd: <www.facebook.com>    
 
 e.hình ảnh  
-!<img>(link)  
+!<img>(link)    
+
 ![bến tre](http://dulichthanhnien-ytc.com.vn/Uploads/B%E1%BA%BFn-Tre-2.jpg)
 
+
 f.bảng  
-| tables | are | cool |
-|:--------|:---:|-----:|  
-|col 2 is|centered|$12|  
-| cách nhau giữa các cột  
-: gióng hàng tronh cột  
-- tách phaannf footer
+| tables  | are    | cool |  
+|:--------|:------:|-----:|    
+|col 2 is |centered|$12   |   
 
-g.Tạo chú thích cuối trang  
 
-Chú thích[^1] chú thích[^2].  
-
-- [^1]: chú thích 1 
-- [^2]: chú thích 2
+g.chú thích  
+đặt dấu ^ trong dấu []  
+[^1]:google
