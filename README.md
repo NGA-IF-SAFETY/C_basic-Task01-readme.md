@@ -12,7 +12,8 @@ Sự phổ biến của HTML khiến ngôn ngữ đánh dấu này được sử
 
 3.Các Cú Pháp Cơ Bản
 
-a.Tạo Tiêu Đề  
+a.Tạo Tiêu Đề 
+
 Các lớp tiêu đề h1,h2,h3 cho đến h6 có thể viết được bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... Tuy vậy để viết một bài viết dễ đọc thì hiếm khi cần dùng đến quá 3 ký tự này.
 
 
@@ -45,7 +46,7 @@ e.hình ảnh
 
 !<img>(link)    
 
-![bến tre](http://dulichthanhnien-ytc.com.vn/Uploads/B%E1%BA%BFn-Tre-2.jpg)  
+![bến tre]( http://hiephoiduabentre.com.vn/data/news/duanuoc.jpg )
 
 
  
