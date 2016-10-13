@@ -34,7 +34,7 @@ c.gạch ngang
 
 dùng ~~
 
-~~gạch ngang ~~
+~~gạch ngang~~
 
 d.link
 
