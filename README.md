@@ -26,11 +26,13 @@ Chữ <strong>in đậm</strong> và chữ <em>in nghiêng</em>
 
 Chữ **in đậm** và chữ *in nghiêng*  
 c.gạch ngang  
-sử dụng ~~
-~~ gạch ngang~~
+sử dụng ~~  
+
+~~ gạch ngang ~~
 
 d.link
-đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)  
+đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)    
+
 vd: <www.facebook.com>    
 
 e.hình ảnh  
@@ -39,12 +41,4 @@ e.hình ảnh
 ![bến tre](http://dulichthanhnien-ytc.com.vn/Uploads/B%E1%BA%BFn-Tre-2.jpg)
 
 
-f.bảng  
-| tables  | are    | cool |  
-|:--------|:------:|-----:|    
-|col 2 is |centered|$12   |   
 
-
-g.chú thích  
-đặt dấu ^ trong dấu []  
-[^1]:google
