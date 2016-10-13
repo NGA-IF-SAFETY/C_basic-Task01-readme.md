@@ -19,7 +19,9 @@ Các lớp tiêu đề h1,h2,h3 cho đến h6 có thể viết được bằng c
 
 # Tiêu đề 1 (h1)
 ## Tiêu đề 2 (h2)
-### Tiêu đề 3 (h3)
+### Tiêu đề 3 (h3)  
+
+
 b.In đậm,in nghiêng  
 
 Kẹp một từ ở đầu và cuối bằng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
@@ -27,27 +29,25 @@ Kẹp một từ ở đầu và cuối bằng 1 ký tự * để in nghiêng, 2 
 
 Chữ **in đậm** và chữ *in nghiêng*  
 
-c.gạch ngang 
+c.gạch ngang  
+
 dùng ~~
+
 ~~gạch ngang ~~
 
 d.link
+
 đặt trong dấu móc nhọn <> hoặc mô tả [ mô tả ] (link)    
 
 vd: [facebook] <https://www.facebook.com>    
 
-e.hình ảnh  
+e.hình ảnh 
+
 !<img>(link)    
 
 ![bến tre](http://dulichthanhnien-ytc.com.vn/Uploads/B%E1%BA%BFn-Tre-2.jpg)  
 
-f. bảng
 
- Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header được tách với content bằng dấu gạch ngang - và : là căn lề phải trái
- 
- | tables  | are    |cool   |  
- |:--------|:------:|------:|  
- |col 2 is |centered| $12   |  
  
 
 
