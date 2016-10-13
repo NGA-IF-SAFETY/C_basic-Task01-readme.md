@@ -59,6 +59,17 @@ Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header �
 |------|:----:|---:| 
 |a     |b     |c   | 
 
+g.Tạo chú thích cuối trang
+
+Chú thích[^1] chú thích[^2].  
+
+- [^1]: chú thích 1 
+- [^2]: chú thích 2  
+
+
+HẾT....
+
+
 
  
 
