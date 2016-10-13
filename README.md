@@ -27,8 +27,11 @@ Tạo Tiêu Đề
 **In đậm** hoặc __In đậm__ (<b>)
 *In nghiêng* hoặc _In nghiêng_ (<i>)
 ~~Chữ gạch ngang~~ (<strike> or <del> or <s>)
+
 Phân đoạn một đoạn văn bản bằng cách chèn một dòng trắng ở giữa các đoạn văn bản.
+
 Xuống dòng bằng cách thêm 2 khoảng trắng ngay phía sau dòng văn bản.
+
 
 Tạo Danh Sách
 
@@ -37,29 +40,27 @@ Tạo danh sách dạng số:
 1. danh sách 1
 2. danh sách 2
 3. danh sách 3
+
+
 Tạo danh sách dạng bullet:
 
 - danh sách 1
 - danh sách 2
 - danh sách 3
-Tạo Liên Kết
+Tạo Liên kết
 
-![Tên link](đường dẫn) (<a>)
-![Tên link với chú thích](đường dẫn "chú thích") (<a name="chú thích">)
 Tạo liên kết tự động
 
 Chỉ cần gõ đường link tuyệt đối (có HTTP hoặc HTTPS) Markdown sẽ tạo liên kết tự động
 
-http://example.com
 Tạo Hình Ảnh
 
-![](đường dẫn) (<img />)
-![](đường dẫn "title") (<img alt="title"/>)
 Tạo Trích Dẫn (Blockquotes)
 
 Để tạo trích dẫn bạn chèn > ngay phía trước
 
 > câu trích dẫn
+
 Tạo Đường Kẻ Gạch Ngang
 
 Bạn gõ --- hoặc *** hoặc ___
