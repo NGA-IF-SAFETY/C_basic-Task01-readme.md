@@ -46,7 +46,18 @@ e.hình ảnh
 
 !<img>(link)    
 
-![bến tre]( http://hiephoiduabentre.com.vn/data/news/duanuoc.jpg )
+![bến tre]( http://hiephoiduabentre.com.vn/data/news/duanuoc.jpg )  
+
+f.bảng
+
+Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header được tách với content bằng dấu gạch ngang -.
+
+
+
+
+|  1   | 2    |  3 |  
+|------|:----:|---:| 
+|a     |b     |c   | 
 
 
  
