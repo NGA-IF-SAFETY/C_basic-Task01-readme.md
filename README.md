@@ -22,44 +22,44 @@ Tạo Tiêu Đề
 ### Tiêu đề 3 (h3)
 Để tạo tiêu đề trong Markdown bạn chỉ cần chèn ký tự # ngay phía trước. Số lượng ký tự # sẽ xác định độ sâu của tiêu đề (tương đương h1-h6 trong mã HTML).
 
-Định Dạng Chữ
+<h3>Thẻ H3</h3>
+Khi viết bằng ngôn ngữ Markdown sẽ như sau:
 
-**In đậm** hoặc __In đậm__ (<b>)
-*In nghiêng* hoặc _In nghiêng_ (<i>)
-~~Chữ gạch ngang~~ (<strike> or <del> or <s>)
+### Thẻ H3
+Để đánh dấu văn bản với thẻ in đậm <strong> và in nghiêng <em> trong HTML, khi chuyển sang Markdown chúng ta sử dụng lần lượt cặp dấu và cặp dấu ****. Ví dụ đoạn mã HTML sau:
 
-Phân đoạn một đoạn văn bản bằng cách chèn một dòng trắng ở giữa các đoạn văn bản.
+Chữ <strong>in đậm</strong> và chữ <em>in nghiêng</em>
+Sẽ tương đương với:
 
-Xuống dòng bằng cách thêm 2 khoảng trắng ngay phía sau dòng văn bản.
+Chữ **in đậm** và chữ *in nghiêng*
+Để dánh dấu 1 danh sách không có thứ tự (unorder list) chúng ta sử dụng dấu - hoặc + hoặc ***** trước mỗi dòng. Ví dụ một danh sách trong HTML như sau:
 
+<ul>
+<li>Xe đạp</li>
+<li>Xe hơi</li>
+<li>Xe gắn máy</li>
+</ul>
+Sẽ tương đương với:
 
-Tạo Danh Sách
+- Xe đạp
+- Xe hơi
+- Xe gắn máy
+Để đánh dấu một danh sách có thứ tự bạn sử dụng các số thay vì các dấu như ở trên. Ví dụ như sau:
 
-Tạo danh sách dạng số:
+1. Xe đạp
+2. Xe hơi
+3. Xe gắn máy
+Để đánh dấu hình ảnh dúng ta sử dụng cú pháp như ở dưới đây:
 
-1. danh sách 1
-2. danh sách 2
-3. danh sách 3
+![Học Lập Trình Online](http://hoclaptrinh.org/logo.png)
+Trong đó phần văn bản đặt trong cặp dấu [] được dùng tương đương với giá tị của thuộc tính alt trong thẻ <img> còn địa chỉ liên kết được đặt trong cặp dấu () được dùng tương đương với giá trị của thuộc tính src trong thẻ <img>.
 
+Để đánh dấu một liên kết chúng ta sử dụng cú pháp như sau:
 
-Tạo danh sách dạng bullet:
+[Học Lập Trình Online](http://hoclaptrinh.org)
+Gần tương tự như khi đánh dấu hình ảnh, với cách đánh dấu sử dụng ngôn ngữ Markdown như trên thì đoạn văn bản bên trong [] sẽ tương đương với giá trị của thuộc tính title trong thẻ <a> và liên kết đặ trong () sẽ tương đương với giá trị thuộc tính href trong thẻ <a>.
 
-- danh sách 1
-- danh sách 2
-- danh sách 3
-Tạo Liên kết
-
-Tạo liên kết tự động
-
-Chỉ cần gõ đường link tuyệt đối (có HTTP hoặc HTTPS) Markdown sẽ tạo liên kết tự động
-
-Tạo Hình Ảnh
-
-Tạo Trích Dẫn (Blockquotes)
-
-Để tạo trích dẫn bạn chèn > ngay phía trước
-
-> câu trích dẫn
+Tới đây chúng ta đã kết thúc việc tìm hiểu về cách sử dụng ngôn ngữ Markdown để đánh dấu văn bản.
 
 Tạo Đường Kẻ Gạch Ngang
 
