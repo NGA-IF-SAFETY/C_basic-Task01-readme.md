@@ -10,7 +10,7 @@ Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi John Gr
 Sự phổ biến của HTML khiến ngôn ngữ đánh dấu này được sử dụng rộng rãi trong các ứng dụng sử dụng internet từ các trang web tới nội dung email hay rất nhiều các tài liệu hướng dẫn online cũng đều sử dụng ngôn ngữ này. Tuy nhiên một vấn đề gặp phải của HML đó là cú pháp của ngôn ngữ này không được thân thiện lắm với người dùng.  
 
 
-3.Các Cú Pháp Cơ Bản
+3.Một số Cú Pháp Cơ Bản
 
 a.Tạo Tiêu Đề 
 
