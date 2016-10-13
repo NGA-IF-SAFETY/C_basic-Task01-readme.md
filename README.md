@@ -1,4 +1,12 @@
 # C_basic-Task01-readme.md
+tài liệu :tìm hiểu markdown
+
+tên:Trần Thị Ngọc
+
+ngày cập nhật :13/10/2016
+
+
+
 1.Markdown Là Gì  
 
 
@@ -58,13 +66,6 @@ Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header �
 |  1   | 2    |  3 |  
 |------|:----:|---:| 
 |a     |b     |c   | 
-
-g.Tạo chú thích cuối trang
-
-Chú thích[^1] chú thích[^2].  
-
-- [^1]: chú thích 1 
-- [^2]: chú thích 2  
 
 
 HẾT....
